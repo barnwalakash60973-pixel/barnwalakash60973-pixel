@@ -103,21 +103,21 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-mlops-pipeline-1.onrender.com/)
 
 </td>
-<td valign="top" width="50%">
+<td colspan="2">
 
 ### AI Stock MCP Platform
 
-Financial analytics platform built using FastMCP and SQL Server, designed for dynamic schema discovery, tool-based query execution, and future LLM integration via Model Context Protocol.
+AI-powered financial analytics platform that enables natural language querying of stock market data using the Model Context Protocol (MCP). Integrated FastMCP with SQL Server to retrieve financial information, execute database queries, and support LLM-driven analytics through a secure, modular architecture.
 
 **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
-
 </td>
 <td valign="top" width="50%">
 
