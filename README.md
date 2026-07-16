@@ -103,7 +103,11 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-mlops-pipeline-1.onrender.com/)
 
 </td>
-<td valign="top" width="50%">
+</tr>
+
+<tr>
+  
+<td colspan="2">
   
 ### AI Stock MCP Platform
 
@@ -118,8 +122,7 @@ AI-powered financial analytics platform that enables natural language querying o
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
-</td>
-<td colspan="2" valign="top">
+
 
 </td>
 </tr>
