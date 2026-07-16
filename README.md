@@ -83,23 +83,24 @@ Production-ready machine learning application with FastAPI backend, Streamlit fr
 </td>
 <td valign="top" width="50%">
 
-### Predicting 1-Year US Stock Returns from Fundamentals
+### Stock Market MLOps Pipeline
 
-Financial machine learning project using TimeSeriesSplit validation, advanced feature engineering, and model benchmarking across XGBoost, CatBoost, Random Forest, and Deep Learning.
+End-to-end MLOps pipeline for stock market prediction featuring automated data ingestion, data validation, feature engineering, model training, experiment tracking, and deployment. Built with FastAPI and Streamlit to deliver real-time predictions through a scalable production-ready workflow.
 
 **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=flat-square&logo=xgboost&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=yandex&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Stock-returns-from-fundamentals)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Stock-Market-MLOps-Pipeline)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-mlops-pipeline-1.onrender.com/)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 ### AI Stock MCP Platform
