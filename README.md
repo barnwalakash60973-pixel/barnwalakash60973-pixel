@@ -107,7 +107,7 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 
 <tr>
   
-<td colspan="2">
+<td width="50%" valign="top">
   
 ### AI Stock MCP Platform
 
@@ -125,6 +125,8 @@ AI-powered financial analytics platform that enables natural language querying o
 
 
 </td>
+
+<td width="50%"></td>
 </tr>
 </table>
 
