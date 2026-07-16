@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://buildportfolio-pearl.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ak-smoky.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-barnwal-31968a380/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sumeakash)
@@ -22,9 +22,11 @@
 
 ## Introduction
 
-My work focuses on **Machine Learning**, **Financial Analytics**, **FastAPI backend development**, **Generative AI**, and **LLM-powered applications**. I enjoy designing end-to-end systems — from data pipelines and model training to APIs, deployment, and explainability.
+I'm an **M.Sc. Artificial Intelligence & Machine Learning** student at **IIIT Lucknow** with a passion for building intelligent, data-driven solutions. My interests span **Data Science**, **Machine Learning**, **Deep Learning**, **Generative AI**, and **Financial Analytics**.
 
-Currently pursuing an **M.Sc. in Artificial Intelligence & Machine Learning** at **IIIT Lucknow** while building scalable AI products and exploring modern AI architectures.
+I enjoy developing end-to-end AI applications—from data preprocessing, feature engineering, and model development to FastAPI backend services, LLM-powered applications, and production deployment. My projects focus on solving real-world problems through scalable, efficient, and explainable AI systems.
+
+I'm currently seeking opportunities as a **Data Scientist** or **AI Engineer**, where I can contribute to building impactful AI products while continuously learning and growing.
 
 <table>
 <tr>
@@ -117,7 +119,7 @@ Financial analytics platform built using FastMCP and SQL Server, designed for dy
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 </td>
 </tr>
