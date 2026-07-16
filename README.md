@@ -103,7 +103,7 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-mlops-pipeline-1.onrender.com/)
 
 </td>
-<td colspan="2">
+<td colspan="2" valign="top">
 
 ### AI Stock MCP Platform
 
