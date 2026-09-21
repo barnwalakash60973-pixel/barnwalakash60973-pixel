@@ -26,40 +26,6 @@ I'm an **M.Sc. Artificial Intelligence & Machine Learning** student at **IIIT Lu
 
 I enjoy developing end-to-end AI applications—from data preprocessing, feature engineering, and model development to FastAPI backend services, LLM-powered applications, and production deployment. My projects focus on solving real-world problems through scalable, efficient, and explainable AI systems.
 
-I'm currently seeking opportunities as a **Data Scientist** or **AI Engineer**, where I can contribute to building impactful AI products while continuously learning and growing.
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Machine Learning Systems**
-- Predictive analytics platforms
-- Financial forecasting models
-- Explainable AI solutions using SHAP
-- Feature engineering and model optimization
-
-</td>
-<td valign="top" width="33%">
-
-**AI & LLM Applications**
-- RAG-based systems
-- LangChain & LangGraph workflows
-- MCP-powered AI applications
-- Agentic AI architectures
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Deployment**
-- FastAPI services
-- Dockerized applications
-- REST APIs
-- Production deployment workflows
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Featured Projects ⭐
@@ -151,6 +117,42 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 </table>
 
 ---
+
+I'm currently seeking opportunities as a **Data Scientist** or **AI Engineer**, where I can contribute to building impactful AI products while continuously learning and growing.
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Machine Learning Systems**
+- Predictive analytics platforms
+- Financial forecasting models
+- Explainable AI solutions using SHAP
+- Feature engineering and model optimization
+
+</td>
+<td valign="top" width="33%">
+
+**AI & LLM Applications**
+- RAG-based systems
+- LangChain & LangGraph workflows
+- MCP-powered AI applications
+- Agentic AI architectures
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Deployment**
+- FastAPI services
+- Dockerized applications
+- REST APIs
+- Production deployment workflows
+
+</td>
+</tr>
+</table>
+
+
 
 ## Tech Stack
 
