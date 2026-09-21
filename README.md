@@ -108,6 +108,7 @@ End-to-end MLOps pipeline for stock market prediction featuring automated data i
 <tr>
   
 <td width="50%" valign="top">
+
   
 ### AI Stock MCP Platform
 
@@ -123,6 +124,28 @@ AI-powered financial analytics platform that enables natural language querying o
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
 
+
+</td>
+
+<td width="50%"></td>
+</tr>
+
+### Papeer – Research Paper Intelligence Platform
+
+AI-powered research paper assistant that enables users to upload PDFs, TXT files, or ArXiv papers and interact with them through natural language queries. Built using Agentic AI and RAG architecture with hybrid retrieval, knowledge graph generation, and hallucination detection to provide accurate, source-grounded answers.
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-AgenticAI-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-red?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-LLM-orange?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-Hybrid%20Search-yellow?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-Analytics-blue?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Papier)
 
 </td>
 
