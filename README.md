@@ -66,6 +66,7 @@ I'm currently seeking opportunities as a **Data Scientist** or **AI Engineer**, 
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### Global Superstore Profit Prediction System
@@ -78,61 +79,18 @@ Production-ready machine learning application with FastAPI backend, Streamlit fr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=flat-square&logo=xgboost&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-222222?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-222222?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/global-superstore-profit-prediction)
+
 </td>
+
 <td valign="top" width="50%">
-
-### Stock Market MLOps Pipeline
-
-End-to-end MLOps pipeline for stock market prediction featuring automated data ingestion, data validation, feature engineering, model training, experiment tracking, and deployment. Built with FastAPI and Streamlit to deliver real-time predictions through a scalable production-ready workflow.
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=yandex&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Stock-Market-MLOps-Pipeline)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-mlops-pipeline-1.onrender.com/)
-
-</td>
-</tr>
-
-<tr>
-  
-<td width="50%" valign="top">
-
-  
-### AI Stock MCP Platform
-
-AI-powered financial analytics platform that enables natural language querying of stock market data using the Model Context Protocol (MCP). Integrated FastMCP with SQL Server to retrieve financial information, execute database queries, and support LLM-driven analytics through a secure, modular architecture.
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
-
-
-</td>
-
-<td width="50%"></td>
-</tr>
 
 ### Papeer – Research Paper Intelligence Platform
 
-AI-powered research paper assistant that enables users to upload PDFs, TXT files, or ArXiv papers and interact with them through natural language queries. Built using Agentic AI and RAG architecture with hybrid retrieval, knowledge graph generation, and hallucination detection to provide accurate, source-grounded answers.
+AI-powered research assistant built using LangGraph, LangChain, and RAG architecture with hybrid retrieval, knowledge graph generation, and hallucination detection.
 
 **Tech Stack:**
 
@@ -142,14 +100,53 @@ AI-powered research paper assistant that enables users to upload PDFs, TXT files
 ![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-red?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-LLM-orange?style=flat-square)
-![BM25](https://img.shields.io/badge/BM25-Hybrid%20Search-yellow?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-Analytics-blue?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Papier)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Papeer)
 
 </td>
 
-<td width="50%"></td>
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### AI Stock MCP Platform
+
+AI-powered financial analytics platform that enables natural language querying of stock market data using MCP, FastMCP, SQL Server, and Gemini.
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/ai-stock-mcp-platform)
+
+</td>
+
+<td valign="top" width="50%">
+
+### Stock Market MLOps Pipeline
+
+End-to-end MLOps pipeline for stock market prediction featuring automated data ingestion, validation, feature engineering, model training, experiment tracking, and deployment.
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnwalakash60973-pixel/Stock-Market-MLOps-Pipeline)
+
+</td>
+
 </tr>
 </table>
 
